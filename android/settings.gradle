@@ -1,0 +1,3 @@
+rootProject.name = 'hc_new'
+
+include ':app'
