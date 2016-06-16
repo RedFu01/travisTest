@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
-    "test": "mocha src/**/*.spec.js"
+    "test": "mocha ./src/**/*.spec.js"
   },
   "dependencies": {
     "react": "^15.1.0",
